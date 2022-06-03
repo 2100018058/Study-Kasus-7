@@ -1,0 +1,39 @@
+input
+Masukkan Banyak Data:
+
+[1]Nama    :
+[1]Nim     :
+[1]Prodi   :
+[1]No Telp :
+
+[2]Nama    :
+[2]Nim     :
+[2]Prodi   :
+[2]No Telp :
+
+
+output
+Data:
+[1]Nama    :
+[1]Nim     :
+[1]Prodi   :
+[1]No Telp :
+
+[2]Nama    :
+[2]Nim     :
+[2]Prodi   :
+[2]No Telp :
+
+1.Mencari Data
+2.Mengurutkan Nim
+
+if 1{
+  Masukkan Nim:
+  Data :
+}else if 2{
+  1. Terkecil > Terbesar
+  2. Terbesar > Terkecil
+  pilih:
+  Urutan Nim:
+}else 
+cout << "Tidak Ada!!";
